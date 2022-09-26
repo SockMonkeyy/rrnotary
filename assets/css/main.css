@@ -1809,7 +1809,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #009282;
+  background-color: #bc902c;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -2079,7 +2079,7 @@ section {
   height: 100%;
   width: 100%;
   text-align: center;
-  border: 2px solid #ec1a8f;
+  border: 4px solid #8d6a007c;
 }
 
 .hero .icon-box .title {
