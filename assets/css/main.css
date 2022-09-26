@@ -2750,3 +2750,14 @@ section {
   background-color: #ec1a8f;
   border: none;
 }
+@media (max-width:768px){
+.heroImg{
+  height: auto;
+}
+}
+
+@media (min-width:768px){
+  .heroImg{
+    height: 100vh;
+  }
+  }
