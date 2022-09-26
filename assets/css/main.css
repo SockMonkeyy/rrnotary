@@ -2731,13 +2731,13 @@ section {
 }
 
 #navbar ul button{
-  background-color: #bc902c;
+  background-color: #bc912c00;
   border: none;
 }
 
 
 #navbar ul button:hover{
-  background-color:;
+  background-color:#bc902c;
   color: #000;
   border: #bc902c;
 }
