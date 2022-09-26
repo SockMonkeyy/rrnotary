@@ -1036,7 +1036,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #00b6a1;
+  background: #bc902c;
 }
 
 .services .service-item:hover h3 {
@@ -1090,7 +1090,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #009d8b;
+  color: #bc902c;
   font-size: 26px;
   line-height: 0;
 }
@@ -1377,7 +1377,7 @@ section {
 
 .portfolio-details .portfolio-description .testimonial-item .quote-icon-left,
 .portfolio-details .portfolio-description .testimonial-item .quote-icon-right {
-  color: #009d8b;
+  color: #bc902c;
   font-size: 26px;
   line-height: 0;
 }
