@@ -2080,7 +2080,7 @@ section {
   height: 100%;
   width: 100%;
   text-align: center;
-  border: 4px solid #8d6a007c;
+  border: 3px solid #8d6a007c;
 }
 
 .hero .icon-box .title {
@@ -2105,7 +2105,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  border: 2px solid #bc912cb9;
+  border: 3px solid #bc912cb9;
   background: #ffffff;
   box-shadow: 0 15px 38px #bc912cb9, 0 10px 10px #bc912cb0;
 }
