@@ -1923,10 +1923,12 @@ section {
   position: relative;
   background: #fff;
   padding: 60px 0 0 0;
-  background: url(/Notary/Impact/assets/img/hero.png);
+  background: url(https://i.postimg.cc/pdRXhx7V/hero.png);
   background-color: rgba(0, 0, 0, 0.527);
   background-blend-mode: color;
   background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media (min-width: 1365px) {
