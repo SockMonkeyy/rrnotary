@@ -984,15 +984,15 @@ section {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #bc902c;
+  border: 2px solid #ffffff;
   color: #fff;
   width: auto;
 }
 
 .call-to-action .cta-btn:hover {
-  background: white;
-  border: 2px solid #bc902c;
-  color: #bc902c;
+  background: rgb(146, 146, 146);
+  border: 2px solid #bc912c00;
+  color: white;
 }
 
 @keyframes pulsate-btn {
@@ -2012,7 +2012,7 @@ section {
   color: #fff;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
-  border: 2px solid rgba(255, 255, 255, 0.1);
+  border: 2px solid #bc902c;
 }
 
 .hero .btn-get-started:hover {
