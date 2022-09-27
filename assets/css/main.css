@@ -676,7 +676,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(var(--color-primary) 50%, rgba(0, 131, 116, 0.4) 52%);
+  background: radial-gradient(var(--color-primary) 50%, #bc912c63 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -702,7 +702,7 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(0, 131, 116, 0.7);
+  border: 5px solid #bc912cc0;
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -2080,7 +2080,7 @@ section {
   height: 100%;
   width: 100%;
   text-align: center;
-  border: 3px solid #8d6a007c;
+  border: 2px solid #ffbf0086;
 }
 
 .hero .icon-box .title {
@@ -2105,7 +2105,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  border: 3px solid #bc912cb9;
+  border: 2px solid #bc912cb9;
   background: #ffffff;
   box-shadow: 0 15px 38px #bc912cb9, 0 10px 10px #bc912cb0;
 }
