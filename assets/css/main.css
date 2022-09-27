@@ -2805,11 +2805,21 @@ section {
   .heroImg {
     height: 90vh;
   }
+
+}
+@media (min-width:992px){
+  .notary{
+    padding-top: 0%;
+  }
 }
 
 @media (min-width:768px) {
   .heroImg {
    height: 80vh;
+  }
+
+  .notary{
+    padding-top: 30%;
   }
 }
 
