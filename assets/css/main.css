@@ -277,7 +277,7 @@ section {
 
   .topbar .contact-info i a,
   .topbar .contact-info i span {
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 
@@ -2808,19 +2808,17 @@ section {
 
 }
 @media (min-width:992px){
-  .notary{
-    padding-top: 0%;
-  }
+
 }
 
 @media (min-width:768px) {
   .heroImg {
    height: 80vh;
   }
-
   .notary{
-    padding-top: 30%;
+    padding-top: 45%;
   }
+  
 }
 
 .bi-check-circle-fill::before {
