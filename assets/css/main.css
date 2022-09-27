@@ -2803,13 +2803,13 @@ section {
 
 @media (max-width:768px) {
   .heroImg {
-    height: auto;
+    height: 90vh;
   }
 }
 
 @media (min-width:768px) {
   .heroImg {
-    height: 100vh;
+   height: 80vh;
   }
 }
 
