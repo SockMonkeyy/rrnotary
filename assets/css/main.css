@@ -846,6 +846,23 @@ section {
 /*--------------------------------------------------------------
 # Call To Action Section
 --------------------------------------------------------------*/
+
+@media (min-width:992px){
+  .call-to-action{
+    width: 75%;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Notary/assets/img/hero.png) center center;
+    background-attachment: fixed;
+   margin: 0 auto;
+  }
+}
+
+@media (max-width:992px){
 .call-to-action {
   position: relative;
   background-size: cover;
@@ -857,7 +874,7 @@ section {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Notary/assets/img/hero.png) center center;
   background-attachment: fixed;
  margin: 0 auto;
-
+}
 }
  #myVideo {
   display: flex;
@@ -1803,6 +1820,8 @@ section {
   border-radius: 10px 0 0 10px;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
 }
+
+
 
 .contact .info-item {
   width: 100%;
