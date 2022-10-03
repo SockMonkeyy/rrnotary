@@ -25,6 +25,8 @@
   --color-second: #bc902c;
 }
 
+
+
 /* Smooth scroll behavior */
 :root {
   scroll-behavior: smooth;
@@ -44,7 +46,7 @@ a {
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #bc902c;
   text-decoration: none;
 }
 
@@ -1730,7 +1732,7 @@ section {
   padding-right: 10px;
   font-size: 20px;
   line-height: 0;
-  color: var(--color-primary);
+  color: #ed1a8f;
 }
 
 .faq .accordion-button:not(.collapsed) {
