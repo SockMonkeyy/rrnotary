@@ -1657,7 +1657,7 @@ section {
   padding: 10px 40px;
   border-radius: 50px;
   color: var(--color-primary);
-  border: 1px solid rgba(0, 131, 116, 0.2);
+  border: 1px solid #ed1a8f70;
   transition: none;
   font-size: 16px;
   font-weight: 600;
