@@ -6,6 +6,19 @@
     letter-spacing: 1px;
     font-weight: 300;
 }
+.header{
+transition: all 0.5s;
+z-index: 997;
+height: 90px;
+background-color: #878787;
+border: #ff61a4;
+bottom-border: pink;
+border-bottom: #ed1a8f;
+  border-bottom-style: none;
+border-style: solid;
+  border-top-style: solid;
+border-top: none;
+}
 body{
     overflow-x: hidden;
 }

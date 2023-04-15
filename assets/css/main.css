@@ -304,12 +304,18 @@ section {
   color: #fff;
 }
 
-.header {
+.header{
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
   background-color: #878787;
-}
+  border: #ff61a4;
+  border-bottom: #ed1a8f;
+    border-bottom-style: none;
+  border-style: solid;
+    border-top-style: solid;
+  border-top: none;
+  }
 
 .header.sticked {
   position: fixed;
